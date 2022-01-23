@@ -1,6 +1,6 @@
 (footprint "LED_SK6805-EC15_1.5mmx1.5mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61AC7106)
+  (tedit 61ED5B52)
   (descr "https://cdn-shop.adafruit.com/product-files/4492/Datasheet.pdf")
   (tags "LED RGB NeoPixel Nano")
   (attr smd)
@@ -32,7 +32,7 @@
   (pad "2" smd rect (at 0.475 0.475 90) (size 0.55 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fa0c1cd9-3e03-4e33-9b43-7f2e9e5bf028))
   (pad "3" smd rect (at 0.475 -0.475 90) (size 0.55 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cd7ce95e-a15f-4c64-b5e6-cf238cf8667e))
   (pad "4" smd rect (at -0.475 -0.475 90) (size 0.55 0.55) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 70d4d2ee-ec37-4182-9883-824f76bc0fd6))
-  (model "//KNAUFFNAS/Electronics/KiCad/Libraries/pubonium-kicad-library/Packages3D/LED_SMD_Pb/SK6805-EC_15.stp"
+  (model "${KICAD_LIBRARIES_PB}/pubonium-kicad-library/Packages3D/LED_SMD_Pb/SK6805-EC_15.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
