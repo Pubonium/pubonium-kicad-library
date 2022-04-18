@@ -1,6 +1,6 @@
 (footprint "PEM_SMTSO-M3-4ET" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 625D1F11)
+  (tedit 625D815B)
   (attr through_hole)
   (fp_text reference "REF**" (at -0.225 -4.075) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
