@@ -1,6 +1,6 @@
 (footprint "TL3330AF" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 5FC43A3C)
+  (tedit 62912EDE)
   (attr smd)
   (fp_text reference "REF**" (at -1.65 -2.7 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -35,7 +35,7 @@
     (solder_mask_margin 0.0508) (tstamp a5f673ab-62b3-4472-9b77-561a9d57d38d))
   (pad "2" smd rect (at 2.1 -1.2 90) (size 1.5 1.1) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0508) (tstamp 278ff1ec-5fdd-4c07-a9ae-693a00b6d3cb))
-  (model "${KIPRJMOD}/modules/packages3D/Button_Switch_SMD.3dshapes/TL3330AFxxxQG.step"
+  (model "${KICAD_LIBRARIES_PB}/pubonium-kicad-library/Packages3D/Button_Switch_SMD_Pb/TL3330AFxxxQG.step"
     (offset (xyz -0 1.5 1.75))
     (scale (xyz 1 1 1))
     (rotate (xyz 90 0 180))
