@@ -1,6 +1,6 @@
 (footprint "MHPA0606RGBDT_0.7x0.7mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62FC99B0)
+  (tedit 62FD370A)
   (descr "0.7 x 0.7 mm RGB LED")
   (tags "LED RGB")
   (attr smd)
@@ -31,7 +31,7 @@
   (pad "2" smd roundrect (at 0.275 -0.275) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 9941f758-c701-4dd4-b49c-f49e796a0c99))
   (pad "3" smd roundrect (at 0.275 0.275) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d24e8bd9-283c-4961-aecc-275094b4da78))
   (pad "4" smd roundrect (at -0.275 0.275) (size 0.3 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 54914ddc-0b40-489e-9099-76d5e4da76d2))
-  (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_Lumex_SML-LX0303SIUPGUSB.wrl"
+  (model "${KICAD_LIBRARIES_PB}/pubonium-kicad-library/Packages3D/LED_SMD_Pb/MHPA0606RGBDT.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
